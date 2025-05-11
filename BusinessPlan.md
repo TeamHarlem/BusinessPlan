@@ -12,3 +12,5 @@ Our startup aims to **revolutionize kids’ education** by offering a *safe, eng
 - **Parental Monitoring Dashboard:** Features such as *activity tracking, chat supervision,* and *progress reports.*  
 - **Gamified Learning:** *Rewards and challenges* to keep kids engaged and motivated.  
 - **Customizable Profiles:** Personalized learning paths based on *age and interests.*
+#**This is a Merge Conflict**
+I should try to fix it.
