@@ -29,4 +29,3 @@ The app also integrates **gamification** and **personalized learning paths** to 
 - 🎯 **Focused Audience**: *Exclusively designed* for **kids aged 5–13**, setting it apart from generic educational or parenting apps.
 - 🤝 **Parent Trust**: *Transparent monitoring tools* foster **confidence** and **peace of mind** for caregivers.
 - 🎮 **Interactive Learning**: Rich **gamification features** and *real-world applications* make the educational journey **fun and effective**.
-
